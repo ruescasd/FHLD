@@ -231,7 +231,7 @@ Ctxt liquidTally(Ctxt directTally, vector<Ctxt> weights) {
 int main(int argc, char *argv[]) {
 
   /*************************** INIT ***************************/
-  /* most of this is code is copied directly from  HElibs general test (https://github.com/shaih/HElib/blob/master/src%2FTest_General.cpp) */
+  /* most of the init code is copied directly from HElibs general test (https://github.com/shaih/HElib/blob/master/src%2FTest_General.cpp) */
 
   cerr << "*************************** INIT ***************************" << "\n";
 
