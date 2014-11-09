@@ -1,7 +1,8 @@
 /*
+Fully Homomorphic Liquid Democracy demo using Shoup's HELib/NTL (https://github.com/shaih/HElib). This is experimental and can easily break.
 
 source set_env
-g++ App.cpp $HELIB/src/fhe.a -I$HELIB/src -o App -L/usr/local/lib -lntl
+g++ FHLD.cpp $HELIB/src/fhe.a -I$HELIB/src -o FHLD -L/usr/local/lib -lntl
 
  */
 #include "FHE.h"
