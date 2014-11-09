@@ -1,7 +1,8 @@
 FHLD (Full Homomorphic Liquid Democracy)
 ====
+Fully Homomorphic Liquid Democracy demo using Shoup's HELib/NTL (https://github.com/shaih/HElib). This is experimental and can easily break.
 
-Building HElib (see http://tommd.github.io/posts/HELib-Intro.html)
+Building HElib (see also http://tommd.github.io/posts/HELib-Intro.html)
 =====
 
 wget http://www.shoup.net/ntl/ntl-6.2.1.tar.gz
