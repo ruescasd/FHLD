@@ -1,4 +1,4 @@
-FHLD (Full Homomorphic Liquid Democracy)
+FHLD (Fully Homomorphic Liquid Democracy)
 ====
 Fully Homomorphic Liquid Democracy demo using Shoup's HELib/NTL (https://github.com/shaih/HElib). This is experimental and can easily break.
 
